@@ -1,0 +1,6 @@
+weatherservice/weatherservice/__pycache__
+weatherservice/weatherservice/migrations/__pycache__
+weatherservice/weather/migrations/__pycache__
+weatherservice/weather/__pycache__ 
+weatherservice/db.sqlite3
+
